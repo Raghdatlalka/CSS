@@ -1,0 +1,50 @@
+.continer{
+    width: 800px;
+    margin: 10px auto;
+    background-color: rgb(255, 255, 255);
+    padding:  10px auto;
+    border: solid 1px;
+}
+p{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+   
+    text-align: center;
+}
+.read{
+    display: flex;
+}
+.child{
+    background-color: green;
+    color: black;
+display:flexbox;
+    width: 250px ;
+    height: 200px;
+    padding: 15px;
+    margin: 10px;
+   
+    text-align: left;  
+}
+
+.child2{
+    background-color: purple;
+    color: black;
+    width: 450px ;
+    height:250;
+    padding: 10px;
+    margin: 10px;
+
+    text-align: right; 
+}
+h6{
+    background-color: blue;
+    color: black;
+    padding: 15px;
+    margin: 10px;
+    padding:  10px auto;
+    text-align: center;
+  
+
+}
